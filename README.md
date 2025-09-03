@@ -2,6 +2,10 @@ Retro Uçak Simülasyonu
 Pygame ile geliştirilmiş, klasik atari oyunlarından ilham alan dinamik ve özellik dolu bir 2D uçak simülasyonu. Gökyüzünde süzülün, engellerden kaçın, güçlendirmeleri toplayın ve en yüksek puanı hedefleyin!
 
 🎮 Oynanış Videosu (GIF)
+
+![Retro Uçak Simülasyonu Oynanış GIF'i](./oynanis.gif)
+
+
 ✨ Gelişmiş Özellikler
 Bu simülasyon, basit bir uçuş oyunundan çok daha fazlasını sunar. İşte oyunu benzersiz kılan bazı özellikler:
 

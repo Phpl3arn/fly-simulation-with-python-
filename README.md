@@ -2,8 +2,6 @@ Retro Uçak Simülasyonu
 Pygame ile geliştirilmiş, klasik atari oyunlarından ilham alan dinamik ve özellik dolu bir 2D uçak simülasyonu. Gökyüzünde süzülün, engellerden kaçın, güçlendirmeleri toplayın ve en yüksek puanı hedefleyin!
 
 🎮 Oynanış Videosu (GIF)
-Oyunun temel mekaniklerini ve heyecanını gösteren kısa bir oynanış anı. Uçağınızla manevra yapın, bulutları vurun ve özel yetenekleri kapın!
-
 ✨ Gelişmiş Özellikler
 Bu simülasyon, basit bir uçuş oyunundan çok daha fazlasını sunar. İşte oyunu benzersiz kılan bazı özellikler:
 
@@ -75,14 +73,26 @@ Terminal veya komut istemcisine aşağıdaki komutu yazın:
 
 pip install pygame
 
+
+
+
+
 Bu repoyu klonlayın veya dosyaları indirin.
 
 git clone [REPO_URL]
+
+
+
+
 
 Oyunu çalıştırın.
 İndirdiğiniz klasörde terminali açın ve şu komutu girin:
 
 python main.py 
+
+
+
+
 
 (Not: Python dosyanızın adı farklıysa komutu ona göre güncelleyin.)
 
